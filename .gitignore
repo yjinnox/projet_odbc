@@ -25,6 +25,6 @@ hs_err_pid*
 
 # ignorer le repertoire target et les fichier qui y sont.
 target/**/*
-.idea
+.idea/
 .mvn
 .settings
